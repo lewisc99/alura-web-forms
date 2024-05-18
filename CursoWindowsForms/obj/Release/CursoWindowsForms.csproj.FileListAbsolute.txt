@@ -1,0 +1,16 @@
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\bin\Release\CursoWindowsForms.exe.config
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\bin\Release\CursoWindowsForms.exe
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\bin\Release\CursoWindowsForms.pdb
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.csproj.AssemblyReference.cache
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_DemostracaoKey.resources
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_HelloWorld.resources
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_Mascara.resources
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_Principal.resources
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_ValidaCPF.resources
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_ValidaCPF2.resources
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_ValidaSenha.resources
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Properties.Resources.resources
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.csproj.GenerateResource.cache
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.csproj.CoreCompileInputs.cache
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.exe
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.pdb

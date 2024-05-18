@@ -1,0 +1,16 @@
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemostracaoKey.resources
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF.resources
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2.resources
+D:\arquivos\programation\workspace-Csharp\2024\month-4\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal.resources
